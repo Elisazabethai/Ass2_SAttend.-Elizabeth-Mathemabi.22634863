@@ -1,0 +1,27 @@
+{
+    "theme": "light",
+    "app_title": "Student & Course Management System",
+    "window_size": "1100x700",
+    "colors": {
+        "light": {
+            "bg": "#f2f3f5",
+            "form_bg": "#ffffff",
+            "button_bg": "#5865F2",
+            "button_fg": "#ffffff",
+            "entry_bg": "#ffffff",
+            "entry_fg": "#000000",
+            "tree_bg": "#ffffff",
+            "tree_fg": "#000000"
+        },
+        "dark": {
+            "bg": "#2f3136",
+            "form_bg": "#36393f",
+            "button_bg": "#7289da",
+            "button_fg": "#ffffff",
+            "entry_bg": "#40444b",
+            "entry_fg": "#ffffff",
+            "tree_bg": "#36393f",
+            "tree_fg": "#ffffff"
+        }
+    }
+}
